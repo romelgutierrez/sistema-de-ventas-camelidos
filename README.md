@@ -1,3 +1,10 @@
-# Sistema de Venta en Java y Mysql
-![java2](https://user-images.githubusercontent.com/71534078/127013163-f5529652-073a-4fcd-ac86-f10611249869.jpg)
-# sistema-de-ventas-camelidos
+# Sistema de Venta de  camélidos | UPeU
+### INTRODUCCIÓN:
++ El presente proyecto tiene el propósito de ayudar a la empresa Pro-sura que se dedica a la
+venta de sus alpacas, para reproducción y carne para esta empresa realizamos un sistema
+de ventas con CRUD y cadena DAO.
+## login:
+![LOGIN](/img3/login.png "LOGIN")
+## SISTEMAS DE VENTAS (MENUS)
+![SISTEMA VENTA](/img3/venta.png "SISTEMA VENTA")
+# Proyecto Integrador
